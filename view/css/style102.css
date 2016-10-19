@@ -1,0 +1,24 @@
+.maiin {
+	position: relative;
+    background-color: #D0E0A6;
+border: 3px;
+float:left;
+width:89%;
+height:89%;
+
+}
+.bt2 {
+	position: absolute;
+	left:0;
+	top:0;
+	}
+.leftt {
+      overflow: hidden;
+	position: relative;
+    background-color: #D0F0F6;
+border: 3px;
+float:right;
+width:10%;
+height:89%;
+
+}
